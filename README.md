@@ -51,6 +51,8 @@ ________________________________________________________________________________
    - Model and preprocessor exported as `.pkl` files  
    - Ready for **integration with Streamlit** for interactive predictions
 
+<img width="1218" height="784" alt="Screenshot 2026-02-05 at 12 18 22 PM" src="https://github.com/user-attachments/assets/4b237b2c-5e5a-4867-a97e-711dbaaaa68c" />
+
 _______________________________________________________________________________________________________________________________________________________________
 
 ## Results

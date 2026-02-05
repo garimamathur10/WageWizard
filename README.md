@@ -55,7 +55,5 @@ ________________________________________________________________________________
 
 ## Results
 
-<img width="1073" height="736" alt="Screenshot 2026-02-05 at 12 12 19 PM" src="https://github.com/user-attachments/assets/b8cf0853-d7ef-4c47-9491-06ec1af61edf" />
-
 <img width="1085" height="795" alt="Screenshot 2026-02-05 at 12 12 27 PM" src="https://github.com/user-attachments/assets/899464db-3d1a-4ae5-81f4-8d3f95d31cb5" />
 
